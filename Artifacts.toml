@@ -1,26 +1,26 @@
 [[Deno]]
 arch = "x86_64"
-git-tree-sha1 = "e0f70f0f5319914c5cf5756dd6d8cd1df0743aaa"
+git-tree-sha1 = "724960621cbae49377d3c3937f133c229a60a90a"
 os = "macos"
 
     [[Deno.download]]
-    sha256 = "a5b1a1eba76dce30b03fc7b773fee1cce1b6ad9575b9feb55b08e5e0867c5ff6"
-    url = "https://github.com/JuliaBinaryWrappers/Deno_jll.jl/releases/download/Deno-v1.10.1+0/Deno.v1.10.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "8d987ed0585fd7551d9d2f725f8f1004cbf2324f68f2ef4813846f66889cfa7f"
+    url = "https://github.com/JuliaBinaryWrappers/Deno_jll.jl/releases/download/Deno-v1.10.2+0/Deno.v1.10.2.x86_64-apple-darwin.tar.gz"
 [[Deno]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4354b9dfff9ea6e84a394f35940db062da719e03"
+git-tree-sha1 = "0944e79f986f3d6be9361bd67388b9c95fe04f49"
 libc = "glibc"
 os = "linux"
 
     [[Deno.download]]
-    sha256 = "9f285ce057d282f2660f5990bb25b62df5146f1dabb98ff55d41c6541ed0f2c7"
-    url = "https://github.com/JuliaBinaryWrappers/Deno_jll.jl/releases/download/Deno-v1.10.1+0/Deno.v1.10.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "e93ea9ad0b5ac5485419e2f1e5fd67477eec9f0764bdc7b279109e03aafb23bd"
+    url = "https://github.com/JuliaBinaryWrappers/Deno_jll.jl/releases/download/Deno-v1.10.2+0/Deno.v1.10.2.x86_64-linux-gnu-cxx11.tar.gz"
 [[Deno]]
 arch = "x86_64"
-git-tree-sha1 = "49ce3c5f60e279745ed0cd89d48536c1f760d4d3"
+git-tree-sha1 = "d9135d836124fe2de083cba1b7e97ac276fb4a5d"
 os = "windows"
 
     [[Deno.download]]
-    sha256 = "cc595b1aeee5789b68f29534ce6b2abfcac3fc6ac2047b78679ea983b724024f"
-    url = "https://github.com/JuliaBinaryWrappers/Deno_jll.jl/releases/download/Deno-v1.10.1+0/Deno.v1.10.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "696d6ad1e8be9f9ebc5f97a79a8b255419fce813a91c7af9a4e889dbb9857359"
+    url = "https://github.com/JuliaBinaryWrappers/Deno_jll.jl/releases/download/Deno-v1.10.2+0/Deno.v1.10.2.x86_64-w64-mingw32.tar.gz"
