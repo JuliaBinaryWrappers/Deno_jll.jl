@@ -1,6 +1,6 @@
 name = "Deno_jll"
 uuid = "04572ae6-984a-583e-9378-9577a1c2574d"
-version = "1.14.3+0"
+version = "1.15.2+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
